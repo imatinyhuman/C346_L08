@@ -14,7 +14,7 @@ Screenshots: <br>
 
 # ScreenShots of App AFTER applying Stylesheet changes
 Screenshots: <br>
-![Before Styling](Screenshots/before.png)
+![Before Styling](Screenshots/after.png)
 
 # Link to Demo Video with audible narration explaining styling changes with code reference
 Demo Video Link: <br>
